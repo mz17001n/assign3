@@ -1,0 +1,1 @@
+Midpoint_C can not be beat because it uses bitwise arithmetic to find the midpoint value while the other midpoint functions use plain old arithmetic in order to find the middle value so that's why midpoint_C is always correct. 

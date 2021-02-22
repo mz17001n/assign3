@@ -1,0 +1,1 @@
+Midpoint_B fails because there cannot be a negative median. If the median of two numbers is negative midpoint_B would not return the correct midpoint.
